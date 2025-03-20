@@ -39,5 +39,9 @@ out/
 /nbdist/
 /.nb-gradle/
 
+
+.DS_Store
+.AppleDouble
+
 ### VS Code ###
 .vscode/
